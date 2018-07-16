@@ -1,0 +1,50 @@
+#menu {
+
+    background-color:blue;
+    color :white;
+    padding:10px;   
+  }
+
+#menu ul {
+    list-style-type: none;
+    display:flex;
+}
+
+#menu ul li {
+    margin-left:20px;
+}
+#content {
+    margin-left:20px;
+    width:90%;
+}
+
+#featuredpost {    
+    margin-left: 10px;
+    background-color: #8080807d;   
+}
+#featuredpost h1 {
+
+    margin-left: 10px;
+}
+
+#post div,p,ul {
+
+    margin-left: 10px;
+    padding: 3px;
+}
+#post div {
+    color:blue;
+}
+
+#poststatus {
+    background-color: orange;
+    list-style-type: none;
+    display: flex;
+    color: white;
+
+}
+
+#poststatus li:nth-child(2) {
+    margin-left: 30px;
+}
+  
